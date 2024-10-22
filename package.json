@@ -1,0 +1,22 @@
+{
+    "name": "raw-device",
+    "description": "A module to remotely control devices using LAN-TCP or RS232-serial connections",
+    "main": "raw.js",
+    "version": "1.1.1",
+    "author": {
+        "name": "Mariusz Czernik <mariusz@infotechnika.pl>"
+    },
+    "keywords": ["device", "control"],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/magik1969/raw-device.git"
+      },
+    "dependencies": {
+        "serialport": "10.x"
+    },
+    "bugs": {
+        "email": "control@infotechnika.pl"
+    },
+    "funding": "https://PayPal.Me/infotechnik",
+    "license": "MIT"
+}
